@@ -81,10 +81,15 @@
 <hr>
 
 ### 📈 &nbsp;Git Stats
+<p align="center">
+  <a href="https://github.com/N4T4LY">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N4t4ly&show_icons=true&theme=material-palenight&hide_border=true&locale=en"/>
+  </a>
+  <a href="https://github.com/N4T4LY">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=N4t4ly&theme=material-palenight"/>
+  </a>
+</p>
 
-
-[![](https://github-readme-stats.vercel.app/api?username=N4t4ly&show_icons=true&theme=material-palenight&hide_border=true&locale=en)](https://github.com/N4t4ly)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=N4t4ly&theme=material-palenight)](https://github.com/N4t4ly)
 
 <p align="center" > 
 <a href="https://github.com/N4T4LY">
