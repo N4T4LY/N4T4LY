@@ -123,9 +123,10 @@
   
   
     
-<!-- retro visitor counter -->  
+<!-- retro visitor counter 
 <div align="center">
   <a href="https://github.com/N4T4LY/">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+-->  
