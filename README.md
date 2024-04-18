@@ -11,12 +11,10 @@
 💻 Soy desarrolladora Web, Diseñadora gráfica y Diseñadora UX/UI
 📚 Tengo licenciatura de Informática en la Universidad Mayor de San Andrés
 💛 Estudiante de Laboratoria en Desarrollo Web
-🌟 Principales lenguajes: JavaScript y Typescript
 🌱 Actualmente aprendiendo NodeJs
 📝 Me gusta explorar nuevas tecnologias y soluciones para el desarrollo de software
 🌤  Entusiasta del aprendizaje
 ✨ Amante de la pintura, los videojuegos, peliculas y la música
-⚡ Fun fact: karaokelover 🤩
 🤔 Actualmente abierta para: una nueva <b>oportunidad de trabajo</b> en desarrollo 
 </pre>
 <hr>
