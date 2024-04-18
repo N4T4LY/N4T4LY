@@ -30,7 +30,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
 ### 🎴 &nbsp;FrontEnd 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+
 ![HTML5](https://img.shields.io/badge/html5-%23FF0027.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
@@ -61,10 +61,9 @@
 ![Trello](https://img.shields.io/badge/trello-%230A0FFF.svg?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![Xampp](https://img.shields.io/badge/xampp-%23FF5D00.svg?style=for-the-badge&logo=xampp&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"alt="postman")&nbsp;
-![VirtualBox](https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"alt="virtualbox)&nbsp;
+
 
 ### 📥 &nbsp;Hosting
 ![Vercel](https://img.shields.io/badge/vercel-393939.svg?style=for-the-badge&logo=vercel&logoColor=white"alt="postman")&nbsp;
