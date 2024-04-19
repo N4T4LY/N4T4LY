@@ -13,7 +13,6 @@
 💛 Estudiante de Laboratoria en Desarrollo Web
 🌱 Actualmente aprendiendo NodeJs
 📝 Me gusta explorar nuevas tecnologias y soluciones para el desarrollo de software
-🌤  Entusiasta del aprendizaje
 ✨ Amante de la pintura, los videojuegos, peliculas y la música
 🤔 Actualmente abierta para: una nueva <b>oportunidad de trabajo</b> en desarrollo 
 </pre>
@@ -41,7 +40,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Mysql](https://img.shields.io/badge/mysql-%23716492.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![SqlServer](https://img.shields.io/badge/sqlServer-%23716552.svg?style=for-the-badge&logo=sqlServer&logoColor=white)&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle-%23ED8B00.svg?style=for-the-badge&logo=Oracle&logoColor=red)&nbsp;
 
 ### ✅ &nbsp;Testing
 ![Eslint](https://img.shields.io/badge/Eslint-%239B59B6.svg?style=for-the-badge&logo=Eslint&logoColor=white)&nbsp;
@@ -61,7 +59,6 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Xampp](https://img.shields.io/badge/xampp-%23FF5D00.svg?style=for-the-badge&logo=xampp&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"alt="postman")&nbsp;
-
 
 ### 📥 &nbsp;Hosting
 ![Vercel](https://img.shields.io/badge/vercel-393939.svg?style=for-the-badge&logo=vercel&logoColor=white"alt="postman")&nbsp;
