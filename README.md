@@ -62,6 +62,7 @@
 ![Netlify](https://img.shields.io/badge/netlify-2DB02D.svg?style=for-the-badge&logo=netlify&logoColor=white"alt="virtualbox)&nbsp;
 
 ### ✒ &nbsp;Graphic Design
+![Figma](https://img.shields.io/badge/Figma-%23F79A18.svg?style=for-the-badge&logo=Figma&logoColor=white)&nbsp;
 ![Illustrator](https://img.shields.io/badge/Illustrator-%23F16A18.svg?style=for-the-badge&logo=AdobeIllustrator&logoColor=white)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Photoshop-%230745EC.svg?style=for-the-badge&logo=AdobePhotoshop&logoColor=white)&nbsp;
 ![InDesign](https://img.shields.io/badge/InDesign-%23920945.svg?style=for-the-badge&logo=AdobeInDesign&logoColor=white)&nbsp;
