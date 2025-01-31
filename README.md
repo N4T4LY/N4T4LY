@@ -60,15 +60,7 @@
 ### 📥 &nbsp;Hosting
 ![Vercel](https://img.shields.io/badge/vercel-393939.svg?style=for-the-badge&logo=vercel&logoColor=white"alt="postman")&nbsp;
 ![Netlify](https://img.shields.io/badge/netlify-2DB02D.svg?style=for-the-badge&logo=netlify&logoColor=white"alt="virtualbox)&nbsp;
-
-### ✒ &nbsp;Graphic Design
-![Figma](https://img.shields.io/badge/Figma-4A154B?style=for-the-badge&logo=Figma&logoColor=white)&nbsp;
-![Illustrator](https://img.shields.io/badge/Illustrator-%23F16A18.svg?style=for-the-badge&logo=AdobeIllustrator&logoColor=white)&nbsp;
-![Photoshop](https://img.shields.io/badge/Photoshop-%230745EC.svg?style=for-the-badge&logo=AdobePhotoshop&logoColor=white)&nbsp;
-![InDesign](https://img.shields.io/badge/InDesign-%23920945.svg?style=for-the-badge&logo=AdobeInDesign&logoColor=white)&nbsp;
-![PremierePro](https://img.shields.io/badge/Premiere-%234E0992.svg?style=for-the-badge&logo=AdobePremierePro&logoColor=white)&nbsp;
-![AfterEffects](https://img.shields.io/badge/AfterEffects-%23716492.svg?style=for-the-badge&logo=AdobeAfterEffects&logoColor=white)&nbsp;
-
+![FireBase](https://img.shields.io/badge/firebase-2DB02D.svg?style=for-the-badge&logo=netlify&logoColor=white"alt="virtualbox)&nbsp;
 
 <hr>
 
