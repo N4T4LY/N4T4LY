@@ -60,7 +60,7 @@
 ### 📥 &nbsp;Hosting
 ![Vercel](https://img.shields.io/badge/vercel-393939.svg?style=for-the-badge&logo=vercel&logoColor=white"alt="postman")&nbsp;
 ![Netlify](https://img.shields.io/badge/netlify-2DB02D.svg?style=for-the-badge&logo=netlify&logoColor=white"alt="virtualbox)&nbsp;
-![FireBase](https://img.shields.io/badge/firebase-2DB02D.svg?style=for-the-badge&logo=netlify&logoColor=white"alt="virtualbox)&nbsp;
+![FireBase](https://img.shields.io/badge/firebase-FF6C37.svg?style=for-the-badge&logo=netlify&logoColor=white"alt="virtualbox)&nbsp;
 
 <hr>
 
