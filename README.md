@@ -30,6 +30,7 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23FF0027.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-4A154B?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 ### 📊 &nbsp;Backend
 ![NodeJS](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"alt="nodejs)&nbsp;
